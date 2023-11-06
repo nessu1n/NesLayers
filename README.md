@@ -1,6 +1,6 @@
 # NesLayers
 
-## [How to Use Script Buttons](#How-To-Use-(Work-In-Progress))
+## [How to Use Script Buttons](#Usage)
 ## Installation (All Devices)
 
 1. Download `NesLayers.jsx`
@@ -12,4 +12,4 @@
 4. In After Effects, navigate to `Window > NESLayers.jsx` and click to enable the script panel![alt text](https://i.imgur.com/tKoSynT.png "Enable Script")
 5. Drag by the text that says `NESLayers` to dock the panel in your workspace.![alt text](https://i.imgur.com/fRYaSKh.gif "Docking Script")
 
-# How To Use (Work-In-Progress)
+# Usage
