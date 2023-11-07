@@ -1,5 +1,5 @@
 ﻿
-(function () {
+(function (thisObj) {
     function createDockableUI(thisObj) {
         var dialog =
             thisObj instanceof Panel
@@ -23,7 +23,7 @@
     }
 
 
-    var panelGlobal = this;
+    var panelGlobal = thisObj;
 
     // DIALOG
     // ======
@@ -237,4 +237,4 @@
         app.endUndoGroup();
 
     };
-})();
+})(this);
